@@ -1,0 +1,3 @@
+C:/Users/oleg.serov/ProjectTutorial1/vitis_ws/zybo_bd/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+C:/Users/oleg.serov/ProjectTutorial1/vitis_ws/zybo_bd/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+C:/Users/oleg.serov/ProjectTutorial1/vitis_ws/zybo_bd/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
